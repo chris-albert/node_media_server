@@ -1,1 +1,5 @@
 Media server written in node.js
+
+To start node media server user forever bin inside the node_modules/forever/bin/ dir
+This will make sure that if the server crashed for some reason it will start it back up and 
+youll never know about it.
